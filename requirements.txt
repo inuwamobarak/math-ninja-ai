@@ -1,0 +1,8 @@
+transformers
+torch
+sentencepiece
+tokenizers
+accelerate
+bitsandbytes
+django
+djangorestframework
